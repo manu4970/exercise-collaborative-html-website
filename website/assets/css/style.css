@@ -4,3 +4,6 @@ body{
 .h-color{
     color: skyblue;
 }
+.background_img{
+    background-image:url();
+}
